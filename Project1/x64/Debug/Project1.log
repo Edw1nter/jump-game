@@ -1,0 +1,4 @@
+﻿  aiplayer_1155233438.c
+C:\Users\64333\Desktop\Project1\aiplayer_1155233438.c(366,23): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\64333\Desktop\Project1\aiplayer_1155233438.c(412,35): warning C4090: “函数”: 不同的“const”限定符
+  Project1.vcxproj -> C:\Users\64333\Desktop\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E91C94-F8A8-4E08-841C-D1BE05B30D26}|Project1.vcxproj|E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\aiplayer_1155233438.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91E91C94-F8A8-4E08-841C-D1BE05B30D26}|Project1.vcxproj|solutionrelative:aiplayer_1155233438.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E91C94-F8A8-4E08-841C-D1BE05B30D26}|Project1.vcxproj|E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\basic_1155233438.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91E91C94-F8A8-4E08-841C-D1BE05B30D26}|Project1.vcxproj|solutionrelative:basic_1155233438.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E91C94-F8A8-4E08-841C-D1BE05B30D26}|Project1.vcxproj|E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\aiplayer_1155233438.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91E91C94-F8A8-4E08-841C-D1BE05B30D26}|Project1.vcxproj|solutionrelative:aiplayer_1155233438.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "basic_1155233438.c",
+              "DocumentMoniker": "E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\basic_1155233438.c",
+              "RelativeDocumentMoniker": "basic_1155233438.c",
+              "ToolTip": "E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\basic_1155233438.c",
+              "RelativeToolTip": "basic_1155233438.c",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-07T09:11:11.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aiplayer_1155233438.c",
+              "DocumentMoniker": "E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\aiplayer_1155233438.c",
+              "RelativeDocumentMoniker": "aiplayer_1155233438.c",
+              "ToolTip": "E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\aiplayer_1155233438.c",
+              "RelativeToolTip": "aiplayer_1155233438.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-26T08:10:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "aiplayer_1155233438.h",
+              "DocumentMoniker": "E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\aiplayer_1155233438.h",
+              "RelativeDocumentMoniker": "aiplayer_1155233438.h",
+              "ToolTip": "E:\\OneDrive - The Chinese University of Hong Kong\\YEAR 1\\ESTR1002\\Project1\\aiplayer_1155233438.h",
+              "RelativeToolTip": "aiplayer_1155233438.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T08:10:05.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
